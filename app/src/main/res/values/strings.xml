@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CourseAdvisor</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_term">選CHOOSE YOUR TERM擇:</string>
+    <string name="course_taken">表DISPLAY COURSE示</string>
+    <string name="courses"></string>
+    <string-array name="Terms">
+        <item>1st Term</item>
+        <item>2nd Term</item>
+        <item>3rd Term</item>
+        <item>4th Term</item>
+        <item>5th Term</item>
+        <item>6th Term</item>
+    </string-array>
+    <string name="title_activity_course_list">CourseList</string>
+</resources>
